@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353618220618",
+    "firebase_url": "https://fami-fin-default-rtdb.firebaseio.com",
+    "project_id": "fami-fin",
+    "storage_bucket": "fami-fin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353618220618:android:e1f42fbc283db975cf38b3",
+        "android_client_info": {
+          "package_name": "com.zanoni.fami_fin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353618220618-qpmguoduqr2en5finlutb0s6evie91s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtW3P-vxBOLLm-1mZBulXFpKTGDZhHdbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353618220618-qpmguoduqr2en5finlutb0s6evie91s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
